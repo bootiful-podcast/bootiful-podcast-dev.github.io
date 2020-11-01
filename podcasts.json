@@ -8,4 +8,14 @@
   "dateAndTime" : "11/01/2020",
   "dataAndTime" : "11/01/2020",
   "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/7e705a34-6418-410e-8c7c-c251611a351e/produced-audio"
+}, {
+  "id" : "29",
+  "uid" : "44e9401a-2e45-4bc0-9688-60159186edaa",
+  "title" : "This is another test of the podcast publishing system",
+  "date" : 1604188800000,
+  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/ar5pp1/44e9401a-2e45-4bc0-9688-60159186edaa.jpg",
+  "description" : "<p>does this go end to end?</p>",
+  "dateAndTime" : "11/01/2020",
+  "dataAndTime" : "11/01/2020",
+  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/44e9401a-2e45-4bc0-9688-60159186edaa/produced-audio"
 } ]
