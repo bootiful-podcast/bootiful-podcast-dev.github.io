@@ -1,0 +1,31 @@
+[ {
+  "id" : "1",
+  "uid" : "3f820dd6-b6c8-499d-9559-66f4645067d3",
+  "title" : "will this work?",
+  "date" : 1604214000000,
+  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/zfo0t7/3f820dd6-b6c8-499d-9559-66f4645067d3.jpg",
+  "description" : "<p>who knows</p>",
+  "dateAndTime" : "11/01/2020",
+  "dataAndTime" : "11/01/2020",
+  "episodeUri" : "http://localhost:8080/podcasts/3f820dd6-b6c8-499d-9559-66f4645067d3/produced-audio"
+}, {
+  "id" : "5",
+  "uid" : "51aeb0cd-f2c0-40a9-9dbe-09d3ebd20c45",
+  "title" : "this is another podcast episode",
+  "date" : 1604214000000,
+  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/t9c16r/51aeb0cd-f2c0-40a9-9dbe-09d3ebd20c45.jpg",
+  "description" : "<p>let's see if this one works, too</p>",
+  "dateAndTime" : "11/01/2020",
+  "dataAndTime" : "11/01/2020",
+  "episodeUri" : "http://localhost:8080/podcasts/51aeb0cd-f2c0-40a9-9dbe-09d3ebd20c45/produced-audio"
+}, {
+  "id" : "9",
+  "uid" : "2271740f-9720-4648-bf0d-e57ad2fe330c",
+  "title" : "the title is the title",
+  "date" : 1604214000000,
+  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/sbnuwu/2271740f-9720-4648-bf0d-e57ad2fe330c.jpg",
+  "description" : "<p>and the description is the description</p>",
+  "dateAndTime" : "11/01/2020",
+  "dataAndTime" : "11/01/2020",
+  "episodeUri" : "http://localhost:8080/podcasts/2271740f-9720-4648-bf0d-e57ad2fe330c/produced-audio"
+} ]
