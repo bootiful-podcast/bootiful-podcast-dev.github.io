@@ -1,4 +1,14 @@
 [ {
+  "id" : "21",
+  "uid" : "bc3ac41f-704a-490d-8a55-3b7edfeab601",
+  "title" : "I hope this is a long enough title e2e2",
+  "date" : 1604188800000,
+  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/uq37h0/bc3ac41f-704a-490d-8a55-3b7edfeab601.jpg",
+  "description" : "<p>I hope this is a long enough title e2e2</p>",
+  "dateAndTime" : "11/01/2020",
+  "dataAndTime" : "11/01/2020",
+  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/bc3ac41f-704a-490d-8a55-3b7edfeab601/produced-audio"
+}, {
   "id" : "1",
   "uid" : "3f820dd6-b6c8-499d-9559-66f4645067d3",
   "title" : "will this work?",
@@ -38,4 +48,14 @@
   "dateAndTime" : "11/01/2020",
   "dataAndTime" : "11/01/2020",
   "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/e7cf9786-f439-4b1d-a5a3-91bdfb45c5f2/produced-audio"
+}, {
+  "id" : "17",
+  "uid" : "2b2cbbde-bedf-4a59-bddf-f798ac355233",
+  "title" : "E2E1",
+  "date" : 1604188800000,
+  "episodePhotoUri" : null,
+  "description" : "<p>Lets hope this works</p>",
+  "dateAndTime" : "11/01/2020",
+  "dataAndTime" : "11/01/2020",
+  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/2b2cbbde-bedf-4a59-bddf-f798ac355233/produced-audio"
 } ]
