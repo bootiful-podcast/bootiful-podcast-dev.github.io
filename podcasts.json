@@ -1,61 +1,11 @@
 [ {
-  "id" : "21",
-  "uid" : "bc3ac41f-704a-490d-8a55-3b7edfeab601",
-  "title" : "I hope this is a long enough title e2e2",
+  "id" : "25",
+  "uid" : "7e705a34-6418-410e-8c7c-c251611a351e",
+  "title" : "This is the title of something awesome",
   "date" : 1604188800000,
-  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/uq37h0/bc3ac41f-704a-490d-8a55-3b7edfeab601.jpg",
-  "description" : "<p>I hope this is a long enough title e2e2</p>",
+  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/7e28zv/7e705a34-6418-410e-8c7c-c251611a351e.jpg",
+  "description" : "<p>This is the description of something awesome</p>",
   "dateAndTime" : "11/01/2020",
   "dataAndTime" : "11/01/2020",
-  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/bc3ac41f-704a-490d-8a55-3b7edfeab601/produced-audio"
-}, {
-  "id" : "1",
-  "uid" : "3f820dd6-b6c8-499d-9559-66f4645067d3",
-  "title" : "will this work?",
-  "date" : 1604188800000,
-  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/zfo0t7/3f820dd6-b6c8-499d-9559-66f4645067d3.jpg",
-  "description" : "<p>who knows</p>",
-  "dateAndTime" : "11/01/2020",
-  "dataAndTime" : "11/01/2020",
-  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/3f820dd6-b6c8-499d-9559-66f4645067d3/produced-audio"
-}, {
-  "id" : "5",
-  "uid" : "51aeb0cd-f2c0-40a9-9dbe-09d3ebd20c45",
-  "title" : "this is another podcast episode",
-  "date" : 1604188800000,
-  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/t9c16r/51aeb0cd-f2c0-40a9-9dbe-09d3ebd20c45.jpg",
-  "description" : "<p>let's see if this one works, too</p>",
-  "dateAndTime" : "11/01/2020",
-  "dataAndTime" : "11/01/2020",
-  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/51aeb0cd-f2c0-40a9-9dbe-09d3ebd20c45/produced-audio"
-}, {
-  "id" : "9",
-  "uid" : "2271740f-9720-4648-bf0d-e57ad2fe330c",
-  "title" : "the title is the title",
-  "date" : 1604188800000,
-  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/sbnuwu/2271740f-9720-4648-bf0d-e57ad2fe330c.jpg",
-  "description" : "<p>and the description is the description</p>",
-  "dateAndTime" : "11/01/2020",
-  "dataAndTime" : "11/01/2020",
-  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/2271740f-9720-4648-bf0d-e57ad2fe330c/produced-audio"
-}, {
-  "id" : "13",
-  "uid" : "e7cf9786-f439-4b1d-a5a3-91bdfb45c5f2",
-  "title" : "A Title With A View",
-  "date" : 1604188800000,
-  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/n0i4vi/e7cf9786-f439-4b1d-a5a3-91bdfb45c5f2.jpg",
-  "description" : "<p>let's see if that site gets updated</p>",
-  "dateAndTime" : "11/01/2020",
-  "dataAndTime" : "11/01/2020",
-  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/e7cf9786-f439-4b1d-a5a3-91bdfb45c5f2/produced-audio"
-}, {
-  "id" : "17",
-  "uid" : "2b2cbbde-bedf-4a59-bddf-f798ac355233",
-  "title" : "E2E1",
-  "date" : 1604188800000,
-  "episodePhotoUri" : null,
-  "description" : "<p>Lets hope this works</p>",
-  "dateAndTime" : "11/01/2020",
-  "dataAndTime" : "11/01/2020",
-  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/2b2cbbde-bedf-4a59-bddf-f798ac355233/produced-audio"
+  "episodeUri" : "http://api.admin.bootifulpodcast.online/podcasts/7e705a34-6418-410e-8c7c-c251611a351e/produced-audio"
 } ]
