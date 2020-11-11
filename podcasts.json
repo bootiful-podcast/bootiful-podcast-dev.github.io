@@ -889,16 +889,6 @@
   "dataAndTime" : "11/05/2020",
   "episodeUri" : "http://api.development.bootifulpodcast.online/podcasts/dc4a4262-a7e2-4af0-879d-328a57fd86b4/produced-audio"
 }, {
-  "id" : "445",
-  "uid" : "da7e2cfa-d5cd-4f2d-8288-bd5fda06c250",
-  "title" : "Test #1",
-  "date" : 1604620800000,
-  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/2e7ldh/da7e2cfa-d5cd-4f2d-8288-bd5fda06c250.jpg",
-  "description" : "<p>this is the first test</p>",
-  "dateAndTime" : "11/06/2020",
-  "dataAndTime" : "11/06/2020",
-  "episodeUri" : "http://api.development.bootifulpodcast.online/podcasts/da7e2cfa-d5cd-4f2d-8288-bd5fda06c250/produced-audio"
-}, {
   "id" : "391",
   "uid" : "95f7ed9e-11b6-4b80-aca6-733921b073d2",
   "title" : "RSocket everywhere and Spring luminary Maciej Walkowiak on Spring Cloud AWS",
