@@ -978,4 +978,14 @@
   "dateAndTime" : "11/12/2020",
   "dataAndTime" : "11/12/2020",
   "episodeUri" : "http://api.development.bootifulpodcast.online/podcasts/8453ecf1-6df9-4c36-aa7c-2614beec8c8b/produced-audio"
+}, {
+  "id" : "448",
+  "uid" : "b89a606d-d8b7-4588-9cae-7edd2923fb80",
+  "title" : "this is a development title",
+  "date" : 1605571200000,
+  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/9pjzg3/b89a606d-d8b7-4588-9cae-7edd2923fb80.jpg",
+  "description" : "<p>this is a development description</p>",
+  "dateAndTime" : "11/17/2020",
+  "dataAndTime" : "11/17/2020",
+  "episodeUri" : "http://api.development.bootifulpodcast.online/podcasts/b89a606d-d8b7-4588-9cae-7edd2923fb80/produced-audio"
 } ]
