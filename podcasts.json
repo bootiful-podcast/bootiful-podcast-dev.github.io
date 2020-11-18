@@ -974,28 +974,8 @@
   "title" : "Spring Boot 2.4, and then living legend, CTO, and friend John Davies",
   "date" : 1605139200000,
   "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/ib5ljq/8453ecf1-6df9-4c36-aa7c-2614beec8c8b.jpg",
-  "description" : "<p>Hi Spring fans! Welcome to another installment of a <em>Bootiful Podcast</em>! In this installment <a href=\"http://twitter.com/starbuxman\">Josh Long (@starbuxman)</a> looks at the week that was, talks about the JUST released Spring Boot 2.4, and then talks to industry legend and larger-than-life friend <a href=\"http://twitter.com/jtdavies\">John Davies (@jtdavies)</a>\na</p>",
+  "description" : "<p>Hi Spring fans! Welcome to another installment of a <em>Bootiful Podcast</em>! In this installment <a href=\"http://twitter.com/starbuxman\">Josh Long (@starbuxman)</a> looks at the week that was, talks about the JUST released Spring Boot 2.4, and then talks to industry legend and larger-than-life friend <a href=\"http://twitter.com/jtdavies\">John Davies (@jtdavies)</a></p>",
   "dateAndTime" : "11/12/2020",
   "dataAndTime" : "11/12/2020",
   "episodeUri" : "http://api.production.bootifulpodcast.online/podcasts/8453ecf1-6df9-4c36-aa7c-2614beec8c8b/produced-audio"
-}, {
-  "id" : "447",
-  "uid" : "23c879d2-8e94-4d93-91f1-8eca25313ed2",
-  "title" : "This is a brand new application",
-  "date" : 1605484800000,
-  "episodePhotoUri" : null,
-  "description" : "<p>This is a brand new application and a new test</p>",
-  "dateAndTime" : "11/16/2020",
-  "dataAndTime" : "11/16/2020",
-  "episodeUri" : "http://api.production.bootifulpodcast.online/podcasts/23c879d2-8e94-4d93-91f1-8eca25313ed2/produced-audio"
-}, {
-  "id" : "451",
-  "uid" : "beef3cd9-6f0a-41e8-9d4c-e16ddb885d12",
-  "title" : "Let's make this test #1",
-  "date" : 1605571200000,
-  "episodePhotoUri" : "https://mcdn.podbean.com/mf/web/pec5d6/beef3cd9-6f0a-41e8-9d4c-e16ddb885d12.jpg",
-  "description" : "<p>this is a test that comes second only to the idea of a test</p>",
-  "dateAndTime" : "11/17/2020",
-  "dataAndTime" : "11/17/2020",
-  "episodeUri" : "http://api.production.bootifulpodcast.online/podcasts/beef3cd9-6f0a-41e8-9d4c-e16ddb885d12/produced-audio"
 } ]
